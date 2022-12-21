@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Memorycard-TOP-React/static/css/main.5e4afade.css",
+    "main.js": "/Memorycard-TOP-React/static/js/main.5ab0ef65.js",
+    "static/media/bg.png": "/Memorycard-TOP-React/static/media/bg.04ab074b3f4f24be7c1b.png",
+    "index.html": "/Memorycard-TOP-React/index.html",
+    "main.5e4afade.css.map": "/Memorycard-TOP-React/static/css/main.5e4afade.css.map",
+    "main.5ab0ef65.js.map": "/Memorycard-TOP-React/static/js/main.5ab0ef65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e4afade.css",
+    "static/js/main.5ab0ef65.js"
+  ]
+}
