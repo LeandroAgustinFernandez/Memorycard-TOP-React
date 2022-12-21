@@ -1,0 +1,26 @@
+
+.header {
+    padding: 20px;
+    background: linear-gradient(90deg, rgba(112, 202, 17, 1) 0%, rgba(41, 134, 54, 1) 3%, rgba(246, 249, 149, 1) 83%, rgba(112, 202, 17, 1) 100%);
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .apptitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color:#F3FBFA;
+}
+
+.header .scoretable{
+    font-size: 1.1rem;
+    font-weight: bold;
+    color:#F3FBFA;    
+    text-align: right;
+}
+
+.header .congrats{
+    font-size: 2rem;
+    font-weight: bold;
+    color:#F3FBFA;
+}
