@@ -8,3 +8,9 @@
     cursor: pointer;
     border: 3px solid #F3FBFA;
 }
+@media (max-width: 768px) {
+    .card{
+        min-width: 50%;
+        padding: 0;
+    }
+}

@@ -24,3 +24,11 @@
     font-weight: bold;
     color:#F3FBFA;
 }
+
+@media (max-width:768px){
+    .header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
